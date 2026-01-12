@@ -1,5 +1,6 @@
+
 {
-  "name": "Camden - Sentiment Intelligence",
-  "description": "A modern, sophisticated sentiment analysis platform leveraging Gemini AI for deep emotional intelligence and batch text processing.",
+  "name": "Camden Intelligence",
+  "description": "An interactive, AI-powered sentiment analysis dashboard for multi-class classification, batch processing, and detailed emotional tone insights with robust export capabilities.",
   "requestFramePermissions": []
 }
